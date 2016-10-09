@@ -21,3 +21,6 @@ If connections are important and tend to consume time to get tested, you better 
 
 ## Reference
 This test refers to [the test of OkHttpLoggingInterceptor](https://github.com/square/okhttp/blob/master/okhttp-logging-interceptor/src/test/java/okhttp3/logging/HttpLoggingInterceptorTest.java).
+
+## Presentation
+- [DevFest Tokyo 2016 LT](https://speakerdeck.com/kmats/devfest-tokyo-2016-lt) (in Japanese)
